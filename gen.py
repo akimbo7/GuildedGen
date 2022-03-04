@@ -7,7 +7,6 @@ from random import choice
 import binascii
 from colorama import *; init()
 import uuid
-import threading
 import multiprocessing
 
 num = 1
@@ -25,7 +24,7 @@ def gen():
 
         username = x
         email = f'{x}@gmail.com'
-        password = 'P4ssyboi00'
+        password = 'iLoveAkimbo7'
 
         headers = {
         'authority': 'www.guilded.gg',
@@ -85,6 +84,6 @@ def gen():
         num = num + 1
 
 if __name__ == '__main__':
-    for i in range(1000):
+    for i in range(250):
         t1 = multiprocessing.Process(target=gen)
         t1.start()
