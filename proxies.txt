@@ -1,1 +1,5 @@
-ru.proxiware:23094
+ru.proxiware:23095
+ru.proxiware:23096
+ru.proxiware:23097
+ru.proxiware:23098
+ru.proxiware:23099
