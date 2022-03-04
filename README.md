@@ -8,8 +8,16 @@ The only form of security is restricting IPs, which can obviously be bypasses ve
 
 ![Untitled](https://user-images.githubusercontent.com/100610867/156846238-922a1b1d-b70a-4b40-90e3-01f51e3c55f4.gif)
 
+```
+What does it do?
+> dfd
+```
+
+
 ## Requirements
 - requests
 - colorama
 - uuid
 - multiprocessing
+
+
