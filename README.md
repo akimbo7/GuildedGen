@@ -1,7 +1,7 @@
 # Guilded Gen
 [![MIT License](https://img.shields.io/github/last-commit/akimbo7/GuildedGen?color=%23BCF8EC&style=flat-square)](https://github.com/akimbo7/GuildedGen)
-[![MIT License](https://img.shields.io/github/repo-size/akimbo7/GuildedGen?color=%23AED9E0&style=flat-square)](https://github.com/akimbo7/GuildedGen)
-[![MIT License](https://img.shields.io/github/v/release/akimbo7/GuildedGen?color=%239FA0C3&style=flat-square)](https://github.com/akimbo7/GuildedGen/releases)
+[![MIT License](https://img.shields.io/github/repo-size/akimbo7/GuildedGen?color=%239FA0C3&style=flat-square)](https://github.com/akimbo7/GuildedGen)
+[![MIT License](https://img.shields.io/github/v/release/akimbo7/GuildedGen?color=%237B435B&style=flat-square)](https://github.com/akimbo7/GuildedGen/releases)
 
 An account generator made for Guilded.
 
