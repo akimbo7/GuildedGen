@@ -2,8 +2,7 @@
 
 An account generator made for Guilded.
 
-Guilded seem to have very poor security when it come to generating accounts. Captchas are non-existent.
-*Why not exploit :)*
+Guilded seem to have very poor security when it come to generating accounts. Captchas are non-existent. *Why not exploit :)*
 
 The only form of security is restricting IPs, which can obviously be bypasses very easily.
 
