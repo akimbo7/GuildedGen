@@ -1,3 +1,4 @@
+```
 # Guilded Gen
 
 An account generator made for Guilded.
@@ -13,3 +14,4 @@ The only form of security is restricting IPs, which can obviously be bypasses ve
 - colorama
 - uuid
 - multiprocessing
+```
