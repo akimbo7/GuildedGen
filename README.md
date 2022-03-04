@@ -10,7 +10,17 @@ The only form of security is restricting IPs, which can obviously be bypasses ve
 
 ```
 What does it do?
-> dfd
+> Creates a random username
+> Creates a random gmail address
+> Creates a unique client id
+> Creates a unique device id
+> Creates account with sessions for increased performance - as opposed to single requests
+> Creates an account
+> Creates a server for each account
+
+>> This ensures that each account is ready to be used off the bat.
+
+>> Format -> email:password
 ```
 
 
