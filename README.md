@@ -23,7 +23,7 @@ What does it do?
 
 >> This ensures that each account is ready to be used off the bat.
 
->> Format -> email:password
+>> Format -> email:password:hmac-cookie
 ```
 
 
